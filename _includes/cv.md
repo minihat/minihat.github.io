@@ -79,7 +79,7 @@
     Methods 2014<br>
     [1]
 [<a href='javascript: none'
-    onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='https://github.com/minihatminihat.github.io/blob/master/data/papers/ken2014.pdf' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='https://github.com/minihat/minihat.github.io/blob/master/data/papers/ken2014.pdf' target='_blank'>pdf</a>] <br>
 
 <div id="abs_amos2017optnet" style="text-align: justify; display: none" markdown="1">
 The fast-developing field of RNA nanotechnology requires the adoption and development of novel and faster computational approaches to modeling and characterization of RNA-based nano-objects. We report the first application of Elastic Network Modeling (ENM), a structure-based dynamics model, to RNA nanotechnology. With the use of an Anisotropic Network Model (ANM), a type of ENM, we characterize the dynamic behavior of non-compact, multi-stranded RNA-based nanocubes that can be used as nano-scale scaffolds carrying different functionalities. Modeling the nanocubes with our tool NanoTiler and exploring the dynamic characteristics of the models with ANM suggested relatively minor but important structural modifications that enhanced the assembly properties and thermodynamic stabilities. In silico and in vitro, we compared nanocubes having different numbers of base pairs per side, showing with both methods that the 10 bp-long helix design leads to more efficient assembly, as predicted computationally. We also explored the impact of different numbers of single-stranded nucleotide stretches at each of the cube corners and showed that cube flexibility simulations help explain the differences in the experimental assembly yields, as well as the measured nanomolecule sizes and melting temperatures. This original work paves the way for detailed computational analysis of the dynamic behavior of artificially designed multi-stranded RNA nanoparticles.
@@ -184,7 +184,7 @@ Linux, Windows
     Methods 2014<br>
     [P1]
 [<a href='javascript: none'
-    onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='http://ac.els-cdn.com/S1046202313004167/1-s2.0-S1046202313004167-main.pdf?_tid=38aba4e0-6ca5-11e7-99ec-00000aab0f01&acdnat=1500484433_062a677b5507dcb4fc2460ae0bdf5bd8' target='_blank'>pdf</a>]<br>
+    onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='https://github.com/minihat/minihat.github.io/blob/master/data/papers/ken2014.pdf' target='_blank'>pdf</a>]<br>
 
 <div id="abs_donti2017taskP" style="text-align: justify; display: none" markdown="1">
 The fast-developing field of RNA nanotechnology requires the adoption and development of novel and faster computational approaches to modeling and characterization of RNA-based nano-objects. We report the first application of Elastic Network Modeling (ENM), a structure-based dynamics model, to RNA nanotechnology. With the use of an Anisotropic Network Model (ANM), a type of ENM, we characterize the dynamic behavior of non-compact, multi-stranded RNA-based nanocubes that can be used as nano-scale scaffolds carrying different functionalities. Modeling the nanocubes with our tool NanoTiler and exploring the dynamic characteristics of the models with ANM suggested relatively minor but important structural modifications that enhanced the assembly properties and thermodynamic stabilities. In silico and in vitro, we compared nanocubes having different numbers of base pairs per side, showing with both methods that the 10 bp-long helix design leads to more efficient assembly, as predicted computationally. We also explored the impact of different numbers of single-stranded nucleotide stretches at each of the cube corners and showed that cube flexibility simulations help explain the differences in the experimental assembly yields, as well as the measured nanomolecule sizes and melting temperatures. This original work paves the way for detailed computational analysis of the dynamic behavior of artificially designed multi-stranded RNA nanoparticles.
@@ -323,7 +323,7 @@ is part of a special issue on smart spaces.
     <strong>Novel Visualizaion and Analysis Tools to Elucidate RNA Nanostructure Dynamics</strong><br>
     <strong>Kenneth T. Hall, </strong> Wojciech K. Kasprzak, Kirill A. Afonin, Eckart Bindwald, Tae-Jin Kim, and Bruce A. Shapiro<br>
     NCI Student Showcase 2014<br>
-    [P1] [<a href='http://bamos.github.io/data/posters/2014-NCI.pdf' target='_blank'>pdf</a>] <br>
+    [P1] [<a href='http://minihat.github.io/data/posters/2014-NCI.pdf' target='_blank'>pdf</a>] <br>
 
 </td>
 </tr>
