@@ -171,43 +171,29 @@ Linux, Windows
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
-<!--
 
-### Preprints and Tech Reports <a href="https://github.com/bamos/cv/blob/master/publications/tech-reports.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+
+### Preprints and Tech Reports <a href="https://github.com/minihat"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
 <table class="table table-hover">
 
 <tr>
 <td>
-    <strong>Task-based End-to-end Model Learning</strong><br>
-    P. Donti, <strong>B. Amos</strong>, and J. Kolter<br>
-    arXiv 2017<br>
+    <strong>Computational and experimental characterization of RNA cubic nanoscaffolds</strong><br>
+    Kirill A. Afonin, Wojciech Kasprzak, Eckart Bindewald, Praneet S. Puppala, Alex R. Diehl, <strong>Kenneth T. Hall</strong>, Tae Jin Kim, Michael T. Zimmermann, Robert L. Jernigan, Luc Jaeger, Bruce A. Shapiro<br>
+    Methods 2014<br>
     [P1]
 [<a href='javascript: none'
-    onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.04529' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/e2e-model-learning' target='_blank'>code</a>] <br>
+    onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='http://ac.els-cdn.com/S1046202313004167/1-s2.0-S1046202313004167-main.pdf?_tid=38aba4e0-6ca5-11e7-99ec-00000aab0f01&acdnat=1500484433_062a677b5507dcb4fc2460ae0bdf5bd8' target='_blank'>pdf</a>]<br>
 
 <div id="abs_donti2017taskP" style="text-align: justify; display: none" markdown="1">
-As machine learning techniques have become more ubiquitous, it has
-become common to see machine learning prediction algorithms operating
-within some larger process. However, the criteria by which we train
-machine learning algorithms often differ from the ultimate criteria on
-which we evaluate them. This paper proposes an end-to-end approach for
-learning probabilistic machine learning models within the context of
-stochastic programming, in a manner that directly captures the
-ultimate task-based objective for which they will be used. We then
-present two experimental evaluations of the proposed approach, one as
-applied to a generic inventory stock problem and the second to a
-real-world electrical grid scheduling task. In both cases, we show
-that the proposed approach can outperform both a traditional modeling
-approach and a purely black-box policy optimization approach.
+The fast-developing field of RNA nanotechnology requires the adoption and development of novel and faster computational approaches to modeling and characterization of RNA-based nano-objects. We report the first application of Elastic Network Modeling (ENM), a structure-based dynamics model, to RNA nanotechnology. With the use of an Anisotropic Network Model (ANM), a type of ENM, we characterize the dynamic behavior of non-compact, multi-stranded RNA-based nanocubes that can be used as nano-scale scaffolds carrying different functionalities. Modeling the nanocubes with our tool NanoTiler and exploring the dynamic characteristics of the models with ANM suggested relatively minor but important structural modifications that enhanced the assembly properties and thermodynamic stabilities. In silico and in vitro, we compared nanocubes having different numbers of base pairs per side, showing with both methods that the 10 bp-long helix design leads to more efficient assembly, as predicted computationally. We also explored the impact of different numbers of single-stranded nucleotide stretches at each of the cube corners and showed that cube flexibility simulations help explain the differences in the experimental assembly yields, as well as the measured nanomolecule sizes and melting temperatures. This original work paves the way for detailed computational analysis of the dynamic behavior of artificially designed multi-stranded RNA nanoparticles.
 </div>
 
 </td>
 </tr>
 
 </table>
-
--->
 
 <!--
 
