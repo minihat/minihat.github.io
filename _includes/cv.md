@@ -1,17 +1,10 @@
- I am a third-year Computer Science Ph.D. student at Carnegie Mellon University and am supported by an NSF graduate research fellowship. I spent the first two years of my Ph.D. working between mobile systems and applied machine learning and I now work with [Zico Kolter](http://zicokolter.com/) on machine learning and optimization. I am particularly interested in improving our understanding of important modeling problems in computer vision, language, and reinforcement learning through the use of deep learning, optimization (sometimes convex), theory, and statistics. As examples, see our [input-convex neural network](https://arxiv.org/abs/1609.07152) and [OptNet](https://arxiv.org/abs/1703.00443) papers. 
-
-I strongly believe in open science and reproducible research and actively publish code on [my Github profile](https://github.com/bamos). I am also the author of [OpenFace](https://cmusatyalab.github.io/openface/), which is an open source face recognition project that uses deep learning.
-
+ I am a first-year Engineering Science and Mechanics Ph.D. student at Penn State University studying Artificial Intelligence and Neural Engineering. My undergraduate studies were in Engineering Science. Now I work with [John Sustersic](https://www.linkedin.com/in/john-sustersic-94035b91/) on AI, and [Bruce Gluckman](https://sites.esm.psu.edu/wiki/research:bjg18:start) on neural engineering. My goal is to draw inspiration from brain physiology to develop new techniques in deep learning.
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>June 2017</td>
-  <td>Our ICNN and OptNet papers have been accepted to ICML and the camera-ready versions are available on arXiv.</td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2017</td>
-  <td>I am interning at Google DeepMind in London this summer with Nando de Freitas.</td>
+  <td>I am spending the summer at Penn State working on computer audition with neural networks. </td>
 </tr>
 </table>
 
@@ -114,10 +107,10 @@ I strongly believe in open science and reproducible research and actively publis
     <strong>Task-based End-to-end Model Learning</strong><br>
     P. Donti, <strong>B. Amos</strong>, and J. Kolter<br>
     arXiv 2017<br>
-    [1] 
+    [1]
 [<a href='javascript: none'
     onclick='$("#abs_donti2017task").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.04529' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/e2e-model-learning' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_donti2017task" style="text-align: justify; display: none" markdown="1">
 As machine learning techniques have become more ubiquitous, it has
 become common to see machine learning prediction algorithms operating
@@ -144,10 +137,10 @@ approach and a purely black-box policy optimization approach.
     <strong>OptNet: Differentiable Optimization as a Layer in Neural Networks</strong><br>
     <strong>B. Amos</strong> and J. Kolter<br>
     ICML 2017<br>
-    [2] 
+    [2]
 [<a href='javascript: none'
     onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.00443' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/optnet' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2017optnet" style="text-align: justify; display: none" markdown="1">
 This paper presents OptNet, a network architecture that integrates
 optimization problems (here, specifically in the form of quadratic programs)
@@ -181,10 +174,10 @@ constraints better than other neural architectures.
     <strong>Input Convex Neural Networks</strong><br>
     <strong>B. Amos</strong>, L. Xu, and J. Kolter<br>
     ICML 2017<br>
-    [3] 
+    [3]
 [<a href='javascript: none'
     onclick='$("#abs_amos2017input").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1609.07152' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/icnn' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2017input" style="text-align: justify; display: none" markdown="1">
 This paper presents the input convex neural network
 architecture. These are scalar-valued (potentially deep) neural
@@ -214,10 +207,10 @@ improvement over the existing state of the art in many cases.
     <strong>Collapsed Variational Inference for Sum-Product Networks</strong><br>
     H. Zhao, T. Adel, G. Gordon, and <strong>B. Amos</strong><br>
     ICML 2016<br>
-    [4] 
+    [4]
 [<a href='javascript: none'
     onclick='$("#abs_zhao2016collapsed").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_zhao2016collapsed" style="text-align: justify; display: none" markdown="1">
 Sum-Product Networks (SPNs) are probabilistic inference machines that admit
 exact inference in linear time in the size of the network. Existing
@@ -245,10 +238,10 @@ with a maximum likelihood based approach.
     <strong>OpenFace: A general-purpose face recognition library with mobile applications</strong><br>
     <strong>B. Amos</strong>, B. Ludwiczuk, and M. Satyanarayanan<br>
     CMU 2016<br>
-    [5] 
+    [5]
 [<a href='javascript: none'
     onclick='$("#abs_amos2016openface").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2016openface" style="text-align: justify; display: none" markdown="1">
 Cameras are becoming ubiquitous in the Internet of Things (IoT) and
 can use face recognition technology to improve context. There is a
@@ -276,10 +269,10 @@ the Apache 2.0 license. It is available at:
     <strong>QNSTOP-QuasiNewton Algorithm for Stochastic Optimization</strong><br>
     <strong>B. Amos</strong>, D. Easterling, L. Watson, W. Thacker, B. Castle, and M. Trosset<br>
     VT 2014<br>
-    [6] 
+    [6]
 [<a href='javascript: none'
     onclick='$("#abs_amos2014QNSTOP").toggle()'>abs</a>] [<a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_amos2014QNSTOP" style="text-align: justify; display: none" markdown="1">
 QNSTOP consists of serial and parallel (OpenMP) Fortran 2003 codes for the
 quasi-Newton stochastic optimization method of Castle and Trosset. For
@@ -450,10 +443,10 @@ Linux, OSX
     <strong>Task-based End-to-end Model Learning</strong><br>
     P. Donti, <strong>B. Amos</strong>, and J. Kolter<br>
     arXiv 2017<br>
-    [P1] 
+    [P1]
 [<a href='javascript: none'
     onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.04529' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/e2e-model-learning' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_donti2017taskP" style="text-align: justify; display: none" markdown="1">
 As machine learning techniques have become more ubiquitous, it has
 become common to see machine learning prediction algorithms operating
@@ -479,10 +472,10 @@ approach and a purely black-box policy optimization approach.
     <strong>OpenFace: A general-purpose face recognition library with mobile applications</strong><br>
     <strong>B. Amos</strong>, B. Ludwiczuk, and M. Satyanarayanan<br>
     CMU 2016<br>
-    [P2] 
+    [P2]
 [<a href='javascript: none'
     onclick='$("#abs_amos2016openfaceP").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2016openfaceP" style="text-align: justify; display: none" markdown="1">
 Cameras are becoming ubiquitous in the Internet of Things (IoT) and
 can use face recognition technology to improve context. There is a
@@ -509,10 +502,10 @@ the Apache 2.0 license. It is available at:
     <strong>Are Cloudlets Necessary?</strong><br>
     Y. Gao, W. Hu, K. Ha, <strong>B. Amos</strong>, P. Pillai, and M. Satyanarayanan<br>
     CMU 2015<br>
-    [P3] 
+    [P3]
 [<a href='javascript: none'
     onclick='$("#abs_gao2015cloudletsP").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2015/CMU-CS-15-139.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_gao2015cloudletsP" style="text-align: justify; display: none" markdown="1">
 We present experimental results from Wi-Fi and 4G LTE networks to validate the
 intuition that low end-to-end latency of cloud services improves application
@@ -535,10 +528,10 @@ consumption in a mobile device by up to 42% compared to cloud offload.
     <strong>Adaptive VM handoff across cloudlets</strong><br>
     K. Ha, Y. Abe, Z. Chen, W. Hu, <strong>B. Amos</strong>, P. Pillai, and M. Satyanarayanan<br>
     CMU 2015<br>
-    [P4] 
+    [P4]
 [<a href='javascript: none'
     onclick='$("#abs_ha2015adaptiveP").toggle()'>abs</a>] [<a href='http://ra.adm.cs.cmu.edu/anon/2015/CMU-CS-15-113.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_ha2015adaptiveP" style="text-align: justify; display: none" markdown="1">
 Cloudlet offload is a valuable technique for ensuring low end-to-end latency of
 resource-intensive cloud processing for many emerging mobile applications.
@@ -561,10 +554,10 @@ changing network conditions and processing capacity
     <strong>QNSTOP-QuasiNewton Algorithm for Stochastic Optimization</strong><br>
     <strong>B. Amos</strong>, D. Easterling, L. Watson, W. Thacker, B. Castle, and M. Trosset<br>
     VT 2014<br>
-    [P5] 
+    [P5]
 [<a href='javascript: none'
     onclick='$("#abs_amos2014QNSTOPP").toggle()'>abs</a>] [<a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_amos2014QNSTOPP" style="text-align: justify; display: none" markdown="1">
 QNSTOP consists of serial and parallel (OpenMP) Fortran 2003 codes for the
 quasi-Newton stochastic optimization method of Castle and Trosset. For
@@ -592,10 +585,10 @@ biology problems is given.
     <strong>OptNet: Differentiable Optimization as a Layer in Neural Networks</strong><br>
     <strong>B. Amos</strong> and J. Kolter<br>
     ICML 2017<br>
-    [C1] 
+    [C1]
 [<a href='javascript: none'
     onclick='$("#abs_amos2017optnetC").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.00443' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/optnet' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2017optnetC" style="text-align: justify; display: none" markdown="1">
 This paper presents OptNet, a network architecture that integrates
 optimization problems (here, specifically in the form of quadratic programs)
@@ -628,10 +621,10 @@ constraints better than other neural architectures.
     <strong>Input Convex Neural Networks</strong><br>
     <strong>B. Amos</strong>, L. Xu, and J. Kolter<br>
     ICML 2017<br>
-    [C2] 
+    [C2]
 [<a href='javascript: none'
     onclick='$("#abs_amos2017inputC").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1609.07152' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/icnn' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2017inputC" style="text-align: justify; display: none" markdown="1">
 This paper presents the input convex neural network
 architecture. These are scalar-valued (potentially deep) neural
@@ -660,10 +653,10 @@ improvement over the existing state of the art in many cases.
     <strong>Collapsed Variational Inference for Sum-Product Networks</strong><br>
     H. Zhao, T. Adel, G. Gordon, and <strong>B. Amos</strong><br>
     ICML 2016<br>
-    [C3] 
+    [C3]
 [<a href='javascript: none'
     onclick='$("#abs_zhao2016collapsedC").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_zhao2016collapsedC" style="text-align: justify; display: none" markdown="1">
 Sum-Product Networks (SPNs) are probabilistic inference machines that admit
 exact inference in linear time in the size of the network. Existing
@@ -690,10 +683,10 @@ with a maximum likelihood based approach.
     <strong>Applying machine learning classifiers to dynamic Android malware detection at scale</strong><br>
     <strong>B. Amos</strong>, H. Turner, and J. White<br>
     IWCMC 2013<br>
-    [C4] 
+    [C4]
 [<a href='javascript: none'
     onclick='$("#abs_amos2013applyingC").toggle()'>abs</a>] [<a href='http://bamos.github.io/data/papers/amos-iwcmc2013.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/VT-Magnum-Research/antimalware' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2013applyingC" style="text-align: justify; display: none" markdown="1">
 The widespread adoption and contextually sensitive
 nature of smartphone devices has increased concerns over smartphone
@@ -720,10 +713,10 @@ malware machine learning classifiers.
     <strong>Privacy mediators: helping IoT cross the chasm</strong><br>
     N. Davies, N. Taft, M. Satyanarayanan, S. Clinch, and <strong>B. Amos</strong><br>
     HotMobile 2016<br>
-    [W1] 
+    [W1]
 [<a href='javascript: none'
     onclick='$("#abs_davies2016privacyW").toggle()'>abs</a>] [<a href='http://eprints.lancs.ac.uk/78255/1/44691.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_davies2016privacyW" style="text-align: justify; display: none" markdown="1">
 Unease over data privacy will retard consumer acceptance of IoT
 deployments. The primary source of discomfort is a lack of user
@@ -751,10 +744,10 @@ and organizational boundaries of trust and responsibility.
     <strong>Early Implementation Experience with Wearable Cognitive Assistance Applications</strong><br>
     Z. Chen, L. Jiang, W. Hu, K. Ha, <strong>B. Amos</strong>, P. Pillai, A. Hauptmann, and M. Satyanarayanan<br>
     WearSys 2015<br>
-    [W2] 
+    [W2]
 [<a href='javascript: none'
     onclick='$("#abs_chen2015earlyW").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~satya/docdir/chen-wearsys2015.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_chen2015earlyW" style="text-align: justify; display: none" markdown="1">
 A cognitive assistance application combines a wearable device such
 as Google Glass with cloudlet processing to provide step-by-step
@@ -777,10 +770,10 @@ simplify the creation of similar applications.
     <strong>The Case for Offload Shaping</strong><br>
     W. Hu, <strong>B. Amos</strong>, Z. Chen, K. Ha, W. Richter, P. Pillai, B. Gilbert, J. Harkes, and M. Satyanarayanan<br>
     HotMobile 2015<br>
-    [W3] 
+    [W3]
 [<a href='javascript: none'
     onclick='$("#abs_hu2014caseW").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~satya/docdir/hu-hotmobile2015.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_hu2014caseW" style="text-align: justify; display: none" markdown="1">
 When offloading computation from a mobile device, we show
 that it can pay to perform additional on-device work in order
@@ -799,10 +792,10 @@ demand, with little loss of application-level fidelity
     <strong>Performance study of Spindle, a web analytics query engine implemented in Spark</strong><br>
     <strong>B. Amos</strong> and D. Tompkins<br>
     CloudCom 2014<br>
-    [W4] 
+    [W4]
 [<a href='javascript: none'
     onclick='$("#abs_amos2014performanceW").toggle()'>abs</a>] [<a href='http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7037709' target='_blank'>pdf</a>]  [<a href='https://github.com/adobe-research/spindle' target='_blank'>code</a>] <br>
-    
+
 <div id="abs_amos2014performanceW" style="text-align: justify; display: none" markdown="1">
 This paper shares our experiences building and benchmarking Spindle as an open
 source Spark-based web analytics platform. Spindle's design has been
@@ -822,10 +815,10 @@ as proper partitioning can cause a 5x performance improvement.
     <strong>Global Parameter Estimation for a Eukaryotic Cell Cycle Model in Systems Biology</strong><br>
     T. Andrew, <strong>B. Amos</strong>, D. Easterling, C. Oguz, W. Baumann, J. Tyson, and L. Watson<br>
     SummerSim 2014<br>
-    [W5] 
+    [W5]
 [<a href='javascript: none'
     onclick='$("#abs_andrew2014globalW").toggle()'>abs</a>] [<a href='http://dl.acm.org/citation.cfm?id=2685662' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_andrew2014globalW" style="text-align: justify; display: none" markdown="1">
 The complicated process by which a yeast cell divides, known as the cell
 cycle, has been modeled by a system of 26 nonlinear ordinary differential
@@ -850,10 +843,10 @@ compared.
     <strong>Fortran 95 implementation of QNSTOP for global and stochastic optimization</strong><br>
     <strong>B. Amos</strong>, D. Easterling, L. Watson, B. Castle, M. Trosset, and W. Thacker<br>
     SpringSim (HPC) 2014<br>
-    [W6] 
+    [W6]
 [<a href='javascript: none'
     onclick='$("#abs_amos2014fortranW").toggle()'>abs</a>] [<a href='http://dl.acm.org/citation.cfm?id=2663525' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_amos2014fortranW" style="text-align: justify; display: none" markdown="1">
 A serial Fortran 95 implementation of the QNSTOP algorithm is presented.
 QNSTOP is a class of quasi-Newton methods for stochastic optimization with
@@ -877,10 +870,10 @@ functions.
     <strong>Edge Analytics in the Internet of Things</strong><br>
     M. Satyanarayanan, P. Simoens, Y. Xiao, P. Pillai, Z. Chen, K. Ha, W. Hu, and <strong>B. Amos</strong><br>
     IEEE Pervasive Computing 2015<br>
-    [M1] 
+    [M1]
 [<a href='javascript: none'
     onclick='$("#abs_satyanarayanan2015edgeM").toggle()'>abs</a>] [<a href='https://www.cs.cmu.edu/~satya/docdir/satya-edge2015.pdf' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_satyanarayanan2015edgeM" style="text-align: justify; display: none" markdown="1">
 High-data-rate sensors, such as video cameras, are becoming ubiquitous in the
 Internet of Things. This article describes GigaSight, an Internet-scale
@@ -903,10 +896,10 @@ is part of a special issue on smart spaces.
     <strong>Bad Parts: Are Our Manufacturing Systems at Risk of Silent Cyberattacks?</strong><br>
     H. Turner, J. White, J. Camelio, C. Williams, <strong>B. Amos</strong>, and R. Parker<br>
     IEEE Security & Privacy 2015<br>
-    [M2] 
+    [M2]
 [<a href='javascript: none'
     onclick='$("#abs_turner2015badM").toggle()'>abs</a>] [<a href='http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7118094' target='_blank'>pdf</a>] <br>
-    
+
 <div id="abs_turner2015badM" style="text-align: justify; display: none" markdown="1">
 Recent cyberattacks have highlighted the risk of physical equipment operating
 outside designed tolerances to produce catastrophic failures. A related
@@ -935,7 +928,7 @@ manufacturing security topics.
     <strong>B. Amos</strong> and J. Kolter<br>
     ICLR Workshop 2016<br>
     [P1] [<a href='http://bamos.github.io/data/posters/2016-iclr-icnn.pdf' target='_blank'>pdf</a>] <br>
-    
+
 </td>
 </tr>
 
@@ -946,7 +939,7 @@ manufacturing security topics.
     <strong>B. Amos</strong> and M. Satyanarayanan<br>
     HotMobile 2016<br>
     [P2] [<a href='http://bamos.github.io/data/posters/2016-hotmobile-facerec.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
-    
+
 </td>
 </tr>
 
