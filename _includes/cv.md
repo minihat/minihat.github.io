@@ -77,9 +77,9 @@
     <strong>Computational and experimental characterization of RNA cubic nanoscaffolds</strong><br>
     Kirill A. Afonin, Wojciech Kasprzak, Eckart Bindewald, Praneet S. Puppala, Alex R. Diehl, <strong>Kenneth T. Hall</strong>, Tae Jin Kim, Michael T. Zimmermann, Robert L. Jernigan, Luc Jaeger, Bruce A. Shapiro<br>
     Methods 2014<br>
-    [2]
+    [1]
 [<a href='javascript: none'
-    onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='http://www.sciencedirect.com/science/article/pii/S1046202313004167' target='_blank'>pdf</a>]  [<a href='http://www.sciencedirect.com/science/article/pii/S1046202313004167' target='_blank'>code</a>] <br>
+    onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='http://ac.els-cdn.com/S1046202313004167/1-s2.0-S1046202313004167-main.pdf?_tid=38aba4e0-6ca5-11e7-99ec-00000aab0f01&acdnat=1500484433_062a677b5507dcb4fc2460ae0bdf5bd8' target='_blank'>pdf</a>] <br>
 
 <div id="abs_amos2017optnet" style="text-align: justify; display: none" markdown="1">
 The fast-developing field of RNA nanotechnology requires the adoption and development of novel and faster computational approaches to modeling and characterization of RNA-based nano-objects. We report the first application of Elastic Network Modeling (ENM), a structure-based dynamics model, to RNA nanotechnology. With the use of an Anisotropic Network Model (ANM), a type of ENM, we characterize the dynamic behavior of non-compact, multi-stranded RNA-based nanocubes that can be used as nano-scale scaffolds carrying different functionalities. Modeling the nanocubes with our tool NanoTiler and exploring the dynamic characteristics of the models with ANM suggested relatively minor but important structural modifications that enhanced the assembly properties and thermodynamic stabilities. In silico and in vitro, we compared nanocubes having different numbers of base pairs per side, showing with both methods that the 10 bp-long helix design leads to more efficient assembly, as predicted computationally. We also explored the impact of different numbers of single-stranded nucleotide stretches at each of the cube corners and showed that cube flexibility simulations help explain the differences in the experimental assembly yields, as well as the measured nanomolecule sizes and melting temperatures. This original work paves the way for detailed computational analysis of the dynamic behavior of artificially designed multi-stranded RNA nanoparticles.
@@ -94,52 +94,20 @@ The fast-developing field of RNA nanotechnology requires the adoption and develo
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>S2017</td>
-  <td><strong>Graduate AI</strong> (CMU 15-780), TA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2016</td>
-  <td><strong>Distributed Systems</strong> (CMU 15-440/640), TA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2013</td>
-  <td><strong>Software Design and Data Structures</strong> (VT CS 2114), TA</td>
+  <td class='col-md-1'>F2016</td>
+  <td><strong>Introduction to Engineering Design</strong> (PSU EDSGN 100H), TA</td>
 </tr>
 </table>
 
 
 ## <i class="fa fa-chevron-right"></i> Industry Experience
 <table class="table table-hover">
-<tr>
+<!-- <tr>
   <td class='col-md-3'>May 2014 - Aug 2014</td>
   <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
 </tr>
 <tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Dec 2013 - Jan 2014</td>
-  <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2013 - Aug 2013</td>
-  <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - Aug 2012</td>
-  <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2011 - Aug 2011</td>
-  <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
-</tr>
-<tr>
-</tr>
+</tr> -->
 </table>
 
 
