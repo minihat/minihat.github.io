@@ -20,8 +20,7 @@ title: Kenneth Hall
 <h4><a href="/blog">View all</a></h4>
 
 ## <i class="fa fa-chevron-right"></i> Fun Side Projects
-+ [This website](https://github.com/minihat/minihat.github.io):
-  Built with Jekyll and hosted on GitHub pages.
+
 
 ---
 
