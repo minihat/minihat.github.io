@@ -15,7 +15,7 @@
   <tr>
     <td class="col-md-3">Aug 2017 - Present</td>
     <td>
-        <strong>Ph.D. in Engineering Science and Mechanics</strong>
+        <strong>Ph.D. Student in Engineering Science and Mechanics</strong>
         <br>
       Penn State University
     </td>
@@ -26,12 +26,6 @@
         <strong>B.S. in Engineering Science</strong>
         <br>
       Penn State University
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">May 2013</td>
-    <td>
-      Walkersville High School (Walkersville, Maryland)
     </td>
   </tr>
 </table>
