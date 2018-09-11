@@ -150,7 +150,7 @@ The fast-developing field of RNA nanotechnology requires the adoption and develo
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
-  <td class='col-md-2'>Basics/td>
+  <td class='col-md-2'>Basics</td>
   <td markdown="1">
   Bash, Git, LaTeX, HTML, CSS
   </td>
