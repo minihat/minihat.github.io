@@ -176,7 +176,7 @@ Linux, Windows
   <i class="ai ai-google-scholar"></i> Google Scholar
 </a>
 
-
+<!--
 
 ### Preprints and Tech Reports <a href="https://github.com/minihat"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
 
@@ -199,6 +199,8 @@ The fast-developing field of RNA nanotechnology requires the adoption and develo
 </tr>
 
 </table>
+-->
+
 
 <!--
 
@@ -244,6 +246,28 @@ constraints better than other neural architectures.
 </table>
 
 -->
+
+### Journal Articles <a href="https://github.com/bamos/cv/blob/master/publications/journal.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+
+<table class="table table-hover">
+
+<tr>
+<td>
+    <strong>Computational and experimental characterization of RNA cubic nanoscaffolds</strong><br>
+    Kirill A. Afonin, Wojciech Kasprzak, Eckart Bindewald, Praneet S. Puppala, Alex R. Diehl, <strong>Kenneth T. Hall</strong>, Tae Jin Kim, Michael T. Zimmermann, Robert L. Jernigan, Luc Jaeger, Bruce A. Shapiro<br>
+    Methods 2014<br>
+    [P1]
+[<a href='javascript: none'
+    onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='http://minihat.github.io/data/papers/ken2014.pdf' target='_blank'>pdf</a>]<br>
+
+<div id="abs_donti2017taskP" style="text-align: justify; display: none" markdown="1">
+The fast-developing field of RNA nanotechnology requires the adoption and development of novel and faster computational approaches to modeling and characterization of RNA-based nano-objects. We report the first application of Elastic Network Modeling (ENM), a structure-based dynamics model, to RNA nanotechnology. With the use of an Anisotropic Network Model (ANM), a type of ENM, we characterize the dynamic behavior of non-compact, multi-stranded RNA-based nanocubes that can be used as nano-scale scaffolds carrying different functionalities. Modeling the nanocubes with our tool NanoTiler and exploring the dynamic characteristics of the models with ANM suggested relatively minor but important structural modifications that enhanced the assembly properties and thermodynamic stabilities. In silico and in vitro, we compared nanocubes having different numbers of base pairs per side, showing with both methods that the 10 bp-long helix design leads to more efficient assembly, as predicted computationally. We also explored the impact of different numbers of single-stranded nucleotide stretches at each of the cube corners and showed that cube flexibility simulations help explain the differences in the experimental assembly yields, as well as the measured nanomolecule sizes and melting temperatures. This original work paves the way for detailed computational analysis of the dynamic behavior of artificially designed multi-stranded RNA nanoparticles.
+</div>
+
+</td>
+</tr>
+
+</table>
 
 <!--
 ### Workshop, Symposium, and Short Papers <a href="https://github.com/bamos/cv/blob/master/publications/short.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>

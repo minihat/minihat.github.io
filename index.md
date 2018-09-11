@@ -5,7 +5,7 @@ title: Kenneth Hall
 
 {% include cv.md %}
 
-## <i class="fa fa-chevron-right"></i> Recent Blog Posts
+[comment]: ## <i class="fa fa-chevron-right"></i> Recent Blog Posts
 
 <table class="table table-hover">
   {% for post in site.posts limit: 5 %}
