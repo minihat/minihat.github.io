@@ -1,10 +1,12 @@
- I am a second year Engineering Science and Mechanics Ph.D. student at Penn State University, supported by a Walker research fellowship. I work with [John Sustersic](https://www.linkedin.com/in/john-sustersic-94035b91/) on machine learning, and [Bruce Gluckman](https://sites.esm.psu.edu/wiki/research:bjg18:start) on neural engineering. Some deep learning problems I'm working on are sound classification and localization in noisy environments, semantic segmentation and behavior labeling in video, and self-supervised hierarchical classification.
+ I am a second year Engineering Science and Mechanics Ph.D. student at Penn State University, supported by a Walker research fellowship. I work with [John Sustersic](https://www.linkedin.com/in/john-sustersic-94035b91/) on machine learning, and [Bruce Gluckman](https://sites.esm.psu.edu/wiki/research:bjg18:start) on neural engineering. Some problems I'm working on are sound classification and localization in noisy environments, semantic segmentation and behavior labeling in video, and self-supervised hierarchical classification.
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>May 2018</td>
   <td>This summer I am working on glucose prediction and reconstruction using sparse modeling and data assimilation schemes at the Penn State Center for Neural Engineering.</td>
+</tr>
+<tr>
   <td class='col-md-3'>May 2017</td>
   <td>I am working on sound localization and classification with recurrent neural networks this summer at the Penn State Applied Research Lab. </td>
 </tr>
