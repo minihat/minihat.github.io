@@ -1,10 +1,12 @@
- I am a first-year Engineering Science and Mechanics Ph.D. student at Penn State University studying Artificial Intelligence and Neural Engineering. My undergraduate studies were in Engineering Science. Now I work with [John Sustersic](https://www.linkedin.com/in/john-sustersic-94035b91/) on AI, and [Bruce Gluckman](https://sites.esm.psu.edu/wiki/research:bjg18:start) on neural engineering. My goal is to draw inspiration from brain physiology to develop new techniques in deep learning.
+ I am a second year Engineering Science and Mechanics Ph.D. student at Penn State University, supported by a Walker research fellowship. I work with [John Sustersic](https://www.linkedin.com/in/john-sustersic-94035b91/) on machine learning, and [Bruce Gluckman](https://sites.esm.psu.edu/wiki/research:bjg18:start) on neural engineering. Some deep learning problems I'm working on are sound classification and localization in noisy environments, semantic segmentation and behavior labeling in video, and self-supervised hierarchical classification.
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>June 2017</td>
-  <td>I am spending the summer at Penn State working on computer audition with neural networks. </td>
+  <td class='col-md-3'>May 2018</td>
+  <td>This summer I am working on glucose prediction and reconstruction using sparse modeling and data assimilation schemes at the Penn State Center for Neural Engineering.</td>
+  <td class='col-md-3'>May 2017</td>
+  <td>I am working on sound localization and classification with recurrent neural networks this summer at the Penn State Applied Research Lab. </td>
 </tr>
 </table>
 
@@ -37,21 +39,21 @@
   <td class='col-md-3'>May 2016 - Present</td>
   <td>
     <strong>Penn State University</strong>, Prof. John Sustersic <br>
-    Machine Learning and Computer Vision/Audition
+    Machine Learning for Computer Vision/Audition
   </td>
 </tr>
 <tr>
   <td class='col-md-3'>Jan 2016 - Present</td>
   <td>
     <strong>Penn State University</strong>, Prof. Bruce Gluckman <br>
-    Glucose Dynamics and Neural Engineering
+    Glucose Dynamics, Computer Vision, Data Assimilation
   </td>
 </tr>
 <tr>
   <td class='col-md-3'>June 2012 - Aug 2014</td>
   <td>
     <strong>National Cancer Institute</strong>, Dr. Bruce Shapiro <br>
-    RNA Dynamics and Simulation
+    RNA structural dynamics, elastic network modeling
   </td>
 </tr>
 </table>
@@ -106,6 +108,13 @@ The fast-developing field of RNA nanotechnology requires the adoption and develo
 -->
 
 ## <i class="fa fa-chevron-right"></i> PSU Graduate Coursework
++ Cellular and Molecular Neurobiology (NEURO 520), P. Drew, F2018
++ Math Methods in Engineering (EMCH 524A), C. Drapaca, F2018
++ Brain Computer Interfaces: Translate Thought into Action (ESC 527), B. Gluckman, S2018
++ Electromagnetic Fields (ESC 400H), A. Lakhtakia, S2018
++ Principles of Artificial Intelligence (IST 597), V. Honavar, F2017
++ Deep Learning (MATH 597-010), J. Xu, F2017
++ Neural Engineering: Fundamentals of Interfacing with Brain (ESC 525), B. Gluckman, F2017
 + Dynamics and Vibrations of Nonlinear Systems (EMCH 597), J. Cusumano, S2017
 
 
