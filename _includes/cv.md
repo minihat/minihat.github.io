@@ -150,21 +150,27 @@ The fast-developing field of RNA nanotechnology requires the adoption and develo
 ## <i class="fa fa-chevron-right"></i> Skills
 <table class="table table-hover">
 <tr>
+  <td class='col-md-2'>Basics/td>
+  <td markdown="1">
+  Bash, Git, LaTeX, HTML, CSS
+  </td>
+</tr>
+<tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-Bash, C, C++, CSS, HTML, LaTeX, *Mathematica*, MATLAB, Perl, PHP, Python
+  Python, Perl, Matlab, C++, *Mathematica*
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td markdown="1">
- NumPy, OpenCV, PyMOL, TensorFlow, SciPy, Solidworks, Unity
+ Tensorflow, NumPy, OpenCV, PyTorch, SciPy, Pandas, Seaborn, Matplotlib
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Systems</td>
   <td markdown="1">
-Linux, Windows
+Linux (Red Hat, Ubuntu, Kali), Windows
   </td>
 </tr>
 </table>
